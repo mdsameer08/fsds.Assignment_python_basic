@@ -1,0 +1,42 @@
+1. In the below elements which of them are values or an expression?
+   eg:- values can be integer or string and expressions will be mathematical operators.
+
+* -mathematical expression
+'hello'-String
+-87.8- float
+-  => mathematical expression
+/  => mathematical expression
++	=> mathematical expression
+6  => Integer
+
+2. What is the difference between string and variable?
+Ans. Variables are symbols that you can use to store data in a program. 
+     You can think of them as an empty box that you fill with some data or value.
+     Strings are data, so we can use them to fill up a variable
+3. Describe three different data types.
+Ans.Three types of data in python are-
+    1.Numeric- Numeric value can be integer,
+               floating number or even complex numbers.
+               These values are defined as int, float and complex class in Python.
+    2.Sequence-sequence is the ordered collection of similar or different data types.
+               Sequences allows to store multiple values in an organized and efficient fashion. 
+               There are several sequence types in Python –List ,tuple
+    3.Boolean - Data type with one of the two built-in values, True or False
+4.What is an expression made up of? What do all expressions do?
+Ans.Expression: An expression is a combination of operators, constants and variables.
+    An expression may consist of one or more operands
+    Expression gives value having various operand which perform various operation
+5.This assignment statements, like spam = 10. What is the difference between an expression and a statement?
+Ans.in the spam variable 10 value is assigned
+    expression produce result or value and statement does not produce values 
+6. After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+Ans.bacon =23
+7. What should the values of the following two terms be?
+'spam' + 'spamspam'
+'spam' * 3
+Ans.a)'spamspamspam'
+    b)'spamspamspam'
+8. Why is eggs a valid variable name while 100 is invalid?
+Ans.because variable cannot be a number.
